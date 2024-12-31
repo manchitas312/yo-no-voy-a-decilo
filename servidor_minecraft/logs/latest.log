@@ -187,3 +187,13 @@
 [04:08:10] [User Authenticator #1/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
 [04:08:14] [Server thread/INFO]: geotrush joined the game
 [04:08:14] [Server thread/INFO]: geotrush[/127.243.211.55:56117] logged in with entity id 4049 at ([world]-4581.013205428852, 128.0, 1140.6178911939055)
+[04:12:52] [Server thread/INFO]: geotrush issued server command: /tp @s -4590 128.5 1136
+[04:12:52] [Server thread/INFO]: [geotrush: Teleported geotrush to -4589.500000, 128.500000, 1136.500000]
+[04:16:43] [Server thread/WARN]: geotrush was kicked for floating too long!
+[04:16:43] [Server thread/INFO]: geotrush lost connection: Flying is not enabled on this server
+[04:16:43] [Server thread/INFO]: geotrush left the game
+[04:16:51] [User Authenticator #2/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[04:16:52] [Server thread/INFO]: geotrush joined the game
+[04:16:52] [Server thread/INFO]: geotrush[/127.243.211.55:56555] logged in with entity id 5420 at ([world]-4529.5, 130.62240158877606, 1217.5)
+[04:17:19] [Server thread/INFO]: geotrush issued server command: /setworldspawn
+[04:17:19] [Server thread/INFO]: [geotrush: Set the world spawn point to -4532, 130, 1212 [0.0]]
