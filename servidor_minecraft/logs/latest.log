@@ -189,3 +189,7 @@
 [22:04:05] [User Authenticator #1/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
 [22:04:06] [Server thread/INFO]: geotrush joined the game
 [22:04:06] [Server thread/INFO]: geotrush[/127.243.211.55:48149] logged in with entity id 3503 at ([world]-4579.787971077295, 127.10972821331158, 1119.5140097043895)
+[22:23:28] [Server thread/INFO]: geotrush issued server command: /setworldspawn
+[22:23:28] [Server thread/INFO]: [geotrush: Set the world spawn point to -4539, 126, 1182 [0.0]]
+[22:23:33] [Server thread/INFO]: geotrush issued server command: /gamerule spawnChunkRadius 10
+[22:23:33] [Server thread/INFO]: [geotrush: Gamerule spawnChunkRadius is now set to: 10]
