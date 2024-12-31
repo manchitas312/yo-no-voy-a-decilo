@@ -183,3 +183,9 @@
 [21:44:49] [Server thread/INFO]: geotrush[/127.243.211.55:53441] logged in with entity id 221 at ([world]-4530.075861504635, 130.0, 1217.1835388219008)
 [21:57:02] [Server thread/INFO]: geotrush issued server command: /tp @s -4590 128.5 1136
 [21:57:02] [Server thread/INFO]: [geotrush: Teleported geotrush to -4589.500000, 128.500000, 1136.500000]
+[22:03:52] [Server thread/WARN]: geotrush was kicked for floating too long!
+[22:03:52] [Server thread/INFO]: geotrush lost connection: Flying is not enabled on this server
+[22:03:52] [Server thread/INFO]: geotrush left the game
+[22:04:05] [User Authenticator #1/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[22:04:06] [Server thread/INFO]: geotrush joined the game
+[22:04:06] [Server thread/INFO]: geotrush[/127.243.211.55:48149] logged in with entity id 3503 at ([world]-4579.787971077295, 127.10972821331158, 1119.5140097043895)
