@@ -201,3 +201,9 @@
 [19:37:33] [Server thread/INFO]: geotrush joined the game
 [19:37:33] [Server thread/INFO]: geotrush[/127.243.211.55:56747] logged in with entity id 2173 at ([world]-4502.794105174273, 131.0, 1216.673541952904)
 [19:42:25] [Server thread/INFO]: geotrush issued server command: /tps
+[19:42:46] [Server thread/INFO]: geotrush lost connection: Disconnected
+[19:42:46] [Server thread/INFO]: geotrush left the game
+[19:43:05] [Server thread/INFO]: Villager Villager['Villager'/59, uuid='7b9171e7-5caa-4f3c-8814-3e41f0adc1a1', l='ServerLevel[world]', x=-4526.92, y=127.06, z=1216.50, cpos=[-283, 76], tl=34128, v=true] died, message: 'Villager suffocated in a wall'
+[19:44:52] [User Authenticator #5/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[19:44:54] [Server thread/INFO]: geotrush joined the game
+[19:44:54] [Server thread/INFO]: geotrush[/127.243.211.55:54673] logged in with entity id 2804 at ([world]-4523.648623574125, 127.0, 1218.9953622843996)
