@@ -176,3 +176,6 @@
 [03:35:08] [User Authenticator #0/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
 [03:35:11] [Server thread/INFO]: geotrush joined the game
 [03:35:11] [Server thread/INFO]: geotrush[/127.243.211.55:53839] logged in with entity id 92 at ([world]-4581.067840498563, 128.0, 1138.6969239264877)
+[03:44:01] [Server thread/INFO]: geotrush was slain by Zombie
+[03:45:42] [Server thread/INFO]: geotrush issued server command: /tp @s -4590 128.5 1136
+[03:45:42] [Server thread/INFO]: [geotrush: Teleported geotrush to -4589.500000, 128.500000, 1136.500000]
