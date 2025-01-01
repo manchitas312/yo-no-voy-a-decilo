@@ -184,3 +184,18 @@
 [18:45:24] [Server thread/INFO]: geotrush issued server command: /tp @s -4515 145.5 1227
 [18:45:24] [Server thread/INFO]: [geotrush: Teleported geotrush to -4514.500000, 145.500000, 1227.500000]
 [18:46:41] [Server thread/INFO]: Villager Villager['Villager'/133, uuid='00bad7c7-6e18-45dd-80b1-b852605a2c37', l='ServerLevel[world]', x=-4462.11, y=117.00, z=1231.46, cpos=[-279, 76], tl=21463, v=true] died, message: 'Villager was slain by geotrush'
+[18:51:56] [Server thread/INFO]: geotrush lost connection: Timed out
+[18:51:56] [Server thread/INFO]: geotrush left the game
+[18:52:27] [User Authenticator #1/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[18:52:29] [Server thread/INFO]: geotrush joined the game
+[18:52:29] [Server thread/INFO]: geotrush[/127.243.211.55:59113] logged in with entity id 1952 at ([world]-4571.372875324899, 134.0, 1146.487500011921)
+[18:56:11] [Server thread/INFO]: geotrush lost connection: Timed out
+[18:56:11] [Server thread/INFO]: geotrush left the game
+[18:56:50] [User Authenticator #2/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[18:56:53] [Server thread/INFO]: geotrush joined the game
+[18:56:53] [Server thread/INFO]: geotrush[/127.243.211.55:42975] logged in with entity id 2439 at ([world]-4531.156729550498, 130.5625, 1208.5117690423833)
+[18:58:11] [Server thread/INFO]: geotrush lost connection: Disconnected
+[18:58:11] [Server thread/INFO]: geotrush left the game
+[18:58:25] [User Authenticator #3/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[18:58:27] [Server thread/INFO]: geotrush joined the game
+[18:58:27] [Server thread/INFO]: geotrush[/127.243.211.55:36385] logged in with entity id 2560 at ([world]-4529.12432554094, 131.0, 1213.354687313662)
