@@ -204,3 +204,8 @@
 [19:00:51] [User Authenticator #4/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
 [19:00:52] [Server thread/INFO]: geotrush joined the game
 [19:00:52] [Server thread/INFO]: geotrush[/127.243.211.55:60435] logged in with entity id 2732 at ([world]-4525.584756022792, 128.4952008770059, 1206.7080490875846)
+[19:20:06] [User Authenticator #5/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[19:20:06] [Server thread/INFO]: geotrush lost connection: You logged in from another location
+[19:20:06] [Server thread/INFO]: geotrush left the game
+[19:20:07] [Server thread/INFO]: geotrush joined the game
+[19:20:07] [Server thread/INFO]: geotrush[/127.243.211.55:34355] logged in with entity id 5455 at ([world]-4514.741477213858, 126.0, 1220.3947004218414)
