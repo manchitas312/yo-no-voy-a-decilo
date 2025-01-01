@@ -183,3 +183,9 @@
 [07:05:27] [Server thread/INFO]: geotrush joined the game
 [07:05:28] [Server thread/INFO]: geotrush[/127.243.211.55:38227] logged in with entity id 239 at ([world]-4554.391149323664, 127.0, 1151.5733546152285)
 [07:16:20] [Server thread/INFO]: geotrush fell from a high place
+[07:48:58] [Server thread/WARN]: geotrush moved wrongly!
+[07:50:01] [Server thread/INFO]: geotrush lost connection: Timed out
+[07:50:01] [Server thread/INFO]: geotrush left the game
+[07:50:13] [User Authenticator #1/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[07:50:14] [Server thread/INFO]: geotrush joined the game
+[07:50:14] [Server thread/INFO]: geotrush[/127.243.211.55:45607] logged in with entity id 6663 at ([world]-4570.271074006359, 133.9375, 1142.5745510747165)
