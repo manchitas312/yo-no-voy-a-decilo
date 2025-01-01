@@ -1,3 +1,5 @@
 [00:16:46] [Server thread/INFO]: geotrush issued server command: /tp @s -4494 145.5 1244
 [00:16:46] [Server thread/INFO]: [geotrush: Teleported geotrush to -4493.500000, 145.500000, 1244.500000]
 [00:17:02] [Server thread/INFO]: Villager Villager['Villager'/18165, uuid='9734f783-4747-488b-b3c3-194174831305', l='ServerLevel[world]', x=-4482.70, y=120.00, z=1240.15, cpos=[-281, 77], tl=288, v=true] died, message: 'Villager hit the ground too hard'
+[00:27:06] [Server thread/INFO]: geotrush fell from a high place
+[00:29:46] [Server thread/INFO]: Villager Villager['Villager'/18824, uuid='5717ad97-a3f9-4bff-965b-48b8828d63cf', l='ServerLevel[world]', x=-4482.80, y=120.00, z=1240.37, cpos=[-281, 77], tl=9233, v=true] died, message: 'Villager was slain by geotrush'
