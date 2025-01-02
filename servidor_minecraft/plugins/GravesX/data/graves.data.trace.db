@@ -174,3 +174,9 @@ CREATE TABLE block (location VARCHAR(255),
 uuid_grave VARCHAR(255),
 replace_material VARCHAR(255),
 replace_data TEXT) [42101-232]
+2025-01-02 19:13:18.634503Z jdbc[3]: exception
+com.ranull.graves.libraries.h2.jdbc.JdbcSQLSyntaxErrorException: (Message 42S01 not found); SQL statement:
+CREATE TABLE block (location VARCHAR(255),
+uuid_grave VARCHAR(255),
+replace_material VARCHAR(255),
+replace_data TEXT) [42101-232]
