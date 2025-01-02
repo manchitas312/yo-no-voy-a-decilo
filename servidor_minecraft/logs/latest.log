@@ -500,3 +500,25 @@
 [21:02:27] [Async Chat Thread - #35/INFO]: [Not Secure] <geotrush> tu ve nomas
 [21:02:34] [Async Chat Thread - #35/INFO]: [Not Secure] <geotrush> estoy asado contigo
 [21:02:46] [Async Chat Thread - #35/INFO]: [Not Secure] <Rcer_mc> aa yaya
+[21:04:27] [Server thread/WARN]: geotrush moved too quickly! -1.5590321018744362,4.0,9.15260339503061
+[21:07:16] [Server thread/WARN]: geotrush was kicked for floating too long!
+[21:07:16] [Server thread/INFO]: geotrush lost connection: Flying is not enabled on this server
+[21:07:16] [Server thread/INFO]: geotrush left the game
+[21:07:25] [User Authenticator #8/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:07:27] [Server thread/INFO]: geotrush joined the game
+[21:07:27] [Server thread/INFO]: geotrush[/127.243.211.55:58509] logged in with entity id 17443 at ([world]-4533.066108479741, 127.0, 1203.524184910299)
+[21:07:59] [Server thread/INFO]: geotrush lost connection: Timed out
+[21:07:59] [Server thread/INFO]: geotrush left the game
+[21:08:10] [User Authenticator #8/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:08:12] [Server thread/INFO]: geotrush joined the game
+[21:08:12] [Server thread/INFO]: geotrush[/127.243.211.55:53225] logged in with entity id 17530 at ([world]-4524.648652003008, 128.0, 1201.7018950195254)
+[21:08:42] [Server thread/INFO]: geotrush lost connection: Timed out
+[21:08:42] [Server thread/INFO]: geotrush left the game
+[21:08:55] [User Authenticator #8/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:08:59] [Server thread/INFO]: geotrush joined the game
+[21:08:59] [Server thread/INFO]: geotrush[/127.243.211.55:58993] logged in with entity id 17616 at ([world]-4517.988685265831, 128.0, 1198.8121146008996)
+[21:09:50] [Server thread/INFO]: geotrush lost connection: Timed out
+[21:09:50] [Server thread/INFO]: geotrush left the game
+[21:09:57] [User Authenticator #9/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:09:58] [Server thread/INFO]: geotrush joined the game
+[21:09:58] [Server thread/INFO]: geotrush[/127.243.211.55:35115] logged in with entity id 17738 at ([world]-4553.7116047193185, 131.83999997377396, 1207.5733472924505)
