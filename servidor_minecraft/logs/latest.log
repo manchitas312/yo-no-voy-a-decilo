@@ -531,3 +531,19 @@
 [21:32:55] [Server thread/INFO]: Rcer_mc[/127.9.77.92:40049] logged in with entity id 20806 at ([world]-4468.39590860773, 135.78947876269956, 1142.6861248392954)
 [21:33:02] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4550.0 132 1232.0
 [21:33:02] [Server thread/INFO]: [geotrush: Teleported geotrush to -4550.000000, 132.000000, 1232.000000]
+[21:38:46] [Server thread/WARN]: geotrush was kicked for floating too long!
+[21:38:46] [Server thread/INFO]: geotrush lost connection: Flying is not enabled on this server
+[21:38:46] [Server thread/INFO]: geotrush left the game
+[21:38:58] [User Authenticator #11/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:39:00] [Server thread/INFO]: geotrush joined the game
+[21:39:00] [Server thread/INFO]: geotrush[/127.243.211.55:39063] logged in with entity id 21971 at ([world]-4506.598232205983, 132.0541173673609, 1245.132913470051)
+[21:42:38] [Server thread/INFO]: geotrush lost connection: Timed out
+[21:42:38] [Server thread/INFO]: geotrush left the game
+[21:43:03] [User Authenticator #12/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:43:13] [Server thread/INFO]: geotrush joined the game
+[21:43:13] [Server thread/INFO]: geotrush[/127.243.211.55:58083] logged in with entity id 22598 at ([world]-4521.796687613445, 135.0, 1261.2375336783118)
+[21:43:54] [Server thread/INFO]: geotrush lost connection: Timed out
+[21:43:54] [Server thread/INFO]: geotrush left the game
+[21:44:02] [User Authenticator #12/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[21:44:03] [Server thread/INFO]: geotrush joined the game
+[21:44:03] [Server thread/INFO]: geotrush[/127.243.211.55:38447] logged in with entity id 22780 at ([world]-4521.816410259549, 135.0, 1261.299589991)
