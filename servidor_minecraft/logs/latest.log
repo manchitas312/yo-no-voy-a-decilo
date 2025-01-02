@@ -547,3 +547,7 @@
 [21:44:02] [User Authenticator #12/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
 [21:44:03] [Server thread/INFO]: geotrush joined the game
 [21:44:03] [Server thread/INFO]: geotrush[/127.243.211.55:38447] logged in with entity id 22780 at ([world]-4521.816410259549, 135.0, 1261.299589991)
+[21:48:55] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4518.5 144 1255.5
+[21:48:55] [Server thread/INFO]: [geotrush: Teleported geotrush to -4518.500000, 144.000000, 1255.500000]
+[21:53:54] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4518.5 144 1255.5
+[21:53:54] [Server thread/INFO]: [geotrush: Teleported geotrush to -4518.500000, 144.000000, 1255.500000]
