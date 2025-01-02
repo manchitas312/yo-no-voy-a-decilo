@@ -551,3 +551,6 @@
 [21:48:55] [Server thread/INFO]: [geotrush: Teleported geotrush to -4518.500000, 144.000000, 1255.500000]
 [21:53:54] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4518.5 144 1255.5
 [21:53:54] [Server thread/INFO]: [geotrush: Teleported geotrush to -4518.500000, 144.000000, 1255.500000]
+[21:56:22] [Server thread/INFO]: geotrush fell from a high place
+[21:58:43] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4518.5 144 1255.5
+[21:58:43] [Server thread/INFO]: [geotrush: Teleported geotrush to -4518.500000, 144.000000, 1255.500000]
