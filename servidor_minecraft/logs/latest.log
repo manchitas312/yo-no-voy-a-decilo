@@ -183,3 +183,20 @@
 [15:48:50] [Server thread/INFO]: geotrush issued server command: /tps
 [15:50:21] [Server thread/INFO]: geotrush issued server command: /tp @s -4543 146.5 1227
 [15:50:21] [Server thread/INFO]: [geotrush: Teleported geotrush to -4542.500000, 146.500000, 1227.500000]
+[15:57:24] [Server thread/INFO]: geotrush issued server command: /setworldspawn
+[15:57:24] [Server thread/INFO]: [geotrush: Set the world spawn point to -4510, 120, 1240 [0.0]]
+[15:57:34] [Server thread/INFO]: geotrush issued server command: /gamerule spawnChunkRadius 5
+[15:57:34] [Server thread/INFO]: [geotrush: Gamerule spawnChunkRadius is now set to: 5]
+[15:58:19] [Server thread/INFO]: geotrush issued server command: /gamerule spawnChunkRadius 4
+[15:58:19] [Server thread/INFO]: [geotrush: Gamerule spawnChunkRadius is now set to: 4]
+[15:58:42] [User Authenticator #1/INFO]: UUID of player Rcer_mc is 697956e9-2eb5-37d0-ab08-c40f51de3c18
+[15:58:44] [Server thread/INFO]: Rcer_mc joined the game
+[15:58:44] [Server thread/INFO]: Rcer_mc[/127.9.77.92:58909] logged in with entity id 2307 at ([world]-4443.451578228907, 134.0, 1149.6644498628898)
+[15:58:55] [Async Chat Thread - #0/INFO]: [Not Secure] <geotrush> holaaaaaa
+[15:59:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Rcer_mc> holaaaaaaaaaaa
+[15:59:20] [Async Chat Thread - #0/INFO]: [Not Secure] <geotrush> mi amorcitoo
+[15:59:27] [Async Chat Thread - #1/INFO]: [Not Secure] <geotrush> no duermas p ando matando arañas XDD
+[15:59:44] [Async Chat Thread - #1/INFO]: [Not Secure] <Rcer_mc> yaya
+[16:00:15] [Async Chat Thread - #1/INFO]: [Not Secure] <geotrush> aaaaaaaaaa estoy laag
+[16:00:19] [Server thread/INFO]: geotrush lost connection: Timed out
+[16:00:19] [Server thread/INFO]: geotrush left the game
