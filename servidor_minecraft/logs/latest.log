@@ -955,3 +955,10 @@
 [23:35:35] [Server thread/INFO]: [geotrush: Teleported geotrush to -4546.000000, 148.000000, 1254.000000]
 [23:38:28] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4496.0 149 1245.0
 [23:38:28] [Server thread/INFO]: [geotrush: Teleported geotrush to -4496.000000, 149.000000, 1245.000000]
+[23:46:41] [Server thread/INFO]: geotrush lost connection: Timed out
+[23:46:41] [Server thread/INFO]: geotrush left the game
+[23:47:04] [User Authenticator #3/INFO]: UUID of player geotrush is 583146d1-b2cf-3918-9ea5-b7f59e3efdcf
+[23:47:06] [Server thread/INFO]: geotrush joined the game
+[23:47:06] [Server thread/INFO]: geotrush[/127.243.211.55:49365] logged in with entity id 26777 at ([world]-4610.054765700864, 57.01551999890685, 1161.300000011921)
+[23:48:08] [Server thread/INFO]: geotrush issued server command: /tp geotrush -4589.0 128 1143.0
+[23:48:08] [Server thread/INFO]: [geotrush: Teleported geotrush to -4589.000000, 128.000000, 1143.000000]
